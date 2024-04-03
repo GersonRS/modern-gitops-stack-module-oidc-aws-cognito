@@ -1,0 +1,1 @@
+# modern-gitops-stack-module-oidc-aws-cognito
