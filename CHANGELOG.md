@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/GersonRS/modern-gitops-stack-module-oidc-aws-cognito/compare/v1.1.0...v1.2.0) (2024-05-01)
+
+
+### Features
+
+* adjust release-please configuration ([6c60deb](https://github.com/GersonRS/modern-gitops-stack-module-oidc-aws-cognito/commit/6c60deb7f6ffe02c21253aa628e418e2594e36ed))
+
 ## [1.1.0](https://github.com/GersonRS/modern-gitops-stack-module-oidc-aws-cognito/compare/v1.0.0...v1.1.0) (2024-05-01)
 
 
