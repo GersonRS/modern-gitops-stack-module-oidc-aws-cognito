@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/GersonRS/modern-gitops-stack-module-oidc-aws-cognito/compare/v1.0.0...v1.1.0) (2024-05-01)
+
+
+### Features
+
+* add pre-commit and adjust add-to-project workflow and release-please configuration ([4bea04b](https://github.com/GersonRS/modern-gitops-stack-module-oidc-aws-cognito/commit/4bea04b2dfffcafa9cd351e8fe580e934f18f2cb))
+
 ## 1.0.0 (2024-04-27)
 
 
